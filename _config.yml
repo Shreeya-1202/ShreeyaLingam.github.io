@@ -12,9 +12,9 @@ title                    : "My Story"
 title_separator          : "-"
 name                     : &name "Shreeya Lingam"
 description              : &description "Hi! My name is Shreeya Lingam and I am a Biomedical Engineering student at Case Western Reserve University!"
-url                      : https://ShreeyaLingam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/GetToKnowMe" # the subpath of your site, e.g. "/blog"
-repository               : "Shreeya1202/ShreeyaLingam.github.io"
+url                      : https://shreeya-1202.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "Shreeya-1202/ShreeyaLingam.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
