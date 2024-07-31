@@ -21,11 +21,11 @@ repository               : "Shreeya-1202/ShreeyaLingam.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "IMG_0329.png"
+  name             : "Shreeya"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Aspiring Biomedical Engineering Student on the Pre-law track!"
+  location         : "Seattle,Washington"
   employer         : "Case Western Reserve University"
   uri              : # URL
   email            : "scl84@case.edu" 
